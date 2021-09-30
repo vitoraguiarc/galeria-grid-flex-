@@ -5,7 +5,7 @@ Primeiro galeria grid criada, com fins didáticos, para o curso de desenvolvimen
 Realizar o desenvolvimento de uma galeria com oito imagens usando o recurso do grid.
 
 ## Website
-A galeria pode ser acessada pelo link: [vitoraguiarc]()
+A galeria pode ser acessada pelo link: [vitoraguiarc](https://vitoraguiarc.github.io/galeria-grid-flex-/)
 
 ## Tecnológias
 * HTML5
